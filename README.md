@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/669874016.svg)](https://zenodo.org/badge/latestdoi/669874016)
+
 # micro_assembly_rules
 Data and code from:
 > Friedman, Jonathan, Logan M. Higgins, and Jeff Gore. "Community structure follows simple assembly rules in microbial microcosms." Nature ecology & evolution 1.5 (2017): 0109.
